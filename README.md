@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @charansaiponnada
-- 👀 I’m interested in data science
+- 👀 I’m interested in data science and deep learning models
 - 🌱 I’m currently learning artificial intelligence and data science
-- 💞️ I’m looking to collaborate on gpt projects
+- 💞️ I’m looking to collaborate on open source collabrative
 - 📫 How to reach me at instagram - charansaiponnada
 - 😄 Pronouns: he/him
 <!--
